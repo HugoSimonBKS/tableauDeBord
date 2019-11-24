@@ -1,0 +1,9 @@
+#####################################################################
+# to change params just edit the values,                            #
+# if you don't want to risk breaking them, edit them with the UI    #
+# / ! \ don't change the param names or else the settings wont work #
+# if you made a mistake you can reset them to default               #
+#####################################################################
+size=20
+height=600
+width=800
